@@ -1,6 +1,6 @@
 # Deep Deformable Registration
 
-![Deformable Registration](/home/skycam/basics/voxelmorph_demo/2018-06-18-11_29_45-Window.png)
+![Deformable Registration](2018-06-18-11_29_45-Window.png)
 
 Deformable registration is basically calculation a dense vector field 
 or mapping for every pixel in moving image to fixed image. This is better
