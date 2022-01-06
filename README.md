@@ -32,7 +32,7 @@ Next step is to click on that star button in right top of this repo :grinning: T
 ```source venv3/bin/activate```\
 ```pip3 install -r requirements.txt```
 
-# MNIST Register Demos
+# MNIST Register Demos 	:relaxed:
 
 ## Using voxelmorph class (Preferred)
 ```python3 simple_voxelmorph.py```
