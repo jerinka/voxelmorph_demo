@@ -6,6 +6,10 @@ suited for deeplearning based registration compared to estimation of
 transformation matrix end to end. Voxelmorph have model creation classes
 for deformable registration learning. 
 
+Here is the medium page for this repo
+[Deep Deformable Registration](https://jerin-electronics.medium.com/deep-deformable-image-registration-6b96a7c81765)
+
+
 If you are looking for non deformable registration, checkout
 [Keypoint and ECC based registration](https://github.com/jerinka/Image_Registration)
 
@@ -37,6 +41,13 @@ Next step is to click on that star button in right top of this repo :grinning: T
 ## Detailed code from voxelmorph tutorial
 ```python voxelmorph_tutorial.py```
 
+## Even more detailed tutorial notebook!
+```jupyter notebook```
+```VoxelMorph_Tutorial.ipynb```
+
+# Real world demo!
+
+## TODO
 
 
 
