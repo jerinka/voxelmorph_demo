@@ -19,7 +19,7 @@ For demo of supervised learning of transform matrix,
 ```git clone https://github.com/jerinka/voxelmorph_demo```
 
 ## Click Star
-Next step is to click on that star in github repo :grinning:
+Next step is to click on that star button in right top of this repo :grinning: Thank you.
 
 # Install
 ```virtualenv venv3 --python=python3```\
